@@ -1,2 +1,2 @@
 # Certificates
-These are my bootcamp certificates
+These are my bootcamp certificates and CV
